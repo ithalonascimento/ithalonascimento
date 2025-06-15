@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Ithalo
-Desenvolvedor em busca de dar o primeiro passo na carreira.
+Desenvolvedor e Analista de dados de Loss Prevention Renner.
 ## 😎Um pouco mais sobre mim
 
 INTERESSES:
